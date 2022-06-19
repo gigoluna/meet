@@ -1,2 +1,2 @@
 # meet
-recognition for meet freshmen
+recognition for meet freshment
